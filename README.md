@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tickMark
-- 👀 I’m interested in making games i guess
-- 🌱 I’m currently learning making games i guess
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @mark_mkram
+- 👀 I’m interested in LLM
+- 🌱 I’m currently learning LLM
+- 💞️ I’m looking to collaborate on LLM
+- 📫 How to reach me https://discord.gg/N4mYq6q7gH
 
 <!---
 tickMark/tickMark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
